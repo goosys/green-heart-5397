@@ -1,0 +1,10 @@
+{
+    "servers": {
+
+        "current-time-server": {
+            "type": "stdio",
+            "command": "/workspaces/green-heart-5397/bin/current-time-server",
+            "args": []
+        }
+    }
+}
